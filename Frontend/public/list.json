@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "The Moon Who Lost Her Light",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/free-ai-image/open-book-concept-fairy-tale-fiction-storytelling_65709976.htm#fromView=search&page=1&position=5&uuid=05099722-dba5-4262-adfe-863e3dea0f0d&query=storybook"
+    },
+    {
+        "id": 2,
+        "name": "ComedyBook",
+        "title": "Giggles in the Garden",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/free-vector/children-doing-activities-backyard_27886063.htm#fromView=search&page=1&position=13&uuid=0ba028af-93a0-4faf-aed2-20c439f05fd7&query=Giggles+in+the+Garden"
+    },
+    {
+        "id": 3,
+        "name": "ComedyBook",
+        "title": "The Clumsy Wizard",
+        "price": 70,
+        "category": "Comedy Book",
+        "image": "https://www.freepik.com/free-vector/wicked-old-witch-character-white-background_20498656.htm#fromView=search&page=1&position=11&uuid=80b1f508-f4eb-4a01-b43d-62a9a26eb912&query=The+Clumsy+Wizard"
+    },
+    {
+        "id": 4,
+        "name": "Adventure Book",
+        "title": "Adventures with Alex and Amy",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/cartoon-explorer-kids-with-animals-jungle_29063575.htm#fromView=search&page=1&position=42&uuid=b8f3b342-395d-43fa-8502-9dbb92a83d59&query=adventures+with+Alex+and+Amy"
+    },
+    {
+        "id": 5,
+        "name": "AdventureBook",
+        "title": "The Treasure of Coral Island",
+        "price": 100,
+        "category": "Adventure",
+        "image": "https://www.freepik.com/free-vector/scene-with-pirate-sailaing-ocean_8033334.htm#fromView=search&page=1&position=1&uuid=804b42c3-d2e8-45f3-87b7-6cc51d1f23de&query=The+Treasure+of+Coral+Island"
+    },
+    {
+        "id": 6,
+        "name": "Book",
+        "title": "The Kingdom of Evernight",
+        "price": 150,
+        "category": "Fantasy",
+        "image": "https://www.freepik.com/free-ai-image/view-futuristic-mystical-other-worldly-sky_81503075.htm#fromView=search&page=1&position=5&uuid=b151be65-f999-4d9f-90f7-9f876114b113&query=The+Kingdom+of+Evernight"
+    },
+    {
+        "id": 7,
+        "name": "Book",
+        "title": "Whispers in the Library",
+        "price": 120,
+        "category": "Mystery",
+        "image": "https://www.freepik.com/free-vector/family-members-reading-living-room_9456644.htm#fromView=search&page=1&position=29&uuid=a9273e87-eb78-4ce3-aee2-b30fa18227b1&query=Whispers+in+the+Library"
+    },
+    {
+        "id": 8,
+        "name": "Book",
+        "title": "Journey Through the Stars",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-ai-image/road-stars-road-universe_44147469.htm#fromView=search&page=1&position=11&uuid=00d5cbae-5bc0-4980-baef-153a6229be65&query=Journey+Through+the+Stars"
+    },
+    {
+        "id": 9,
+        "name": "Book",
+        "title": "Numbers in the Jungle",
+        "price": 150,
+        "category": "Educational",
+        "image": "https://www.freepik.com/free-vector/counting-number-0-9-math-symbols_26161127.htm#fromView=search&page=1&position=6&uuid=d6c097f1-b886-4543-bed9-b0a981d83872&query=Numbers+in+the+Jungle"
+    },
+    {
+        "id": 10,
+        "name": "Book",
+        "title": "Space Explorers Club",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/free-vector/astronomy-theme-with-many-kids-looking-stars_26278886.htm#fromView=search&page=1&position=8&uuid=9830a36e-2c6d-472f-abed-770825a26b30&query=Space+Explorers+Club"
+    }
+]
